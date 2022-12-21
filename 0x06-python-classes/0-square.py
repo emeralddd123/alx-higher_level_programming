@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""A module for working with squares.
-"""
+# 0-square.py by Ehoneah Obed
+"""Defines a square """
+
 
 class Square:
-    """Represents a 2D Polygon with 4 equal and perpendicular sides.
-    """
+    """Does nothing"""
     pass
